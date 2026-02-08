@@ -10,4 +10,4 @@ role="ACCOUNTADMIN"
 
 [cli.logs]
 save_logs = true
-level = "info
+level = "info"
