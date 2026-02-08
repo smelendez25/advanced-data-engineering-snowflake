@@ -13,4 +13,3 @@ role="ACCOUNTADMIN"
 [cli.logs]
 save_logs = true
 level = "info"
-path = "/home/cybertron/.snowflake/logs"
